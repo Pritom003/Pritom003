@@ -1,6 +1,6 @@
 
 
-[![Your Image Alt Text](./banner%202.png)](https://git.io/streak-stats)
+[![Your Image Alt Text](./resize-17020651731634132017resize1702064975401887746banner2.png)](https://git.io/streak-stats)
 
 ## Activity Summary
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)
