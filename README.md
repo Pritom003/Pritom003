@@ -14,8 +14,9 @@
 
 Feel free to explore my GitHub repositories to see the projects I've been working on.
 
-## Most Contributed Repositories 
+## Most Contributed
 [![GitHub Trends](https://api.githubtrends.io/user/svg/Pritom003/repos?time_range=one_year&theme=bright_lights)](https://api.githubtrends.io/user/svg/Pritom003/repos?time_range=one_year&theme=bright_lights)
+[![GitHub Trends](https://api.githubtrends.io/user/svg/Pritom003/langs?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/Pritom003/repos?time_range=one_year&theme=bright_lights)
 # My Recent Projects
 ## Project-1:
 
