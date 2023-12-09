@@ -1,6 +1,6 @@
 
 
-[![Your Image Alt Text](./Untitled%20design.png)]
+![Your Image Alt Text](./Untitled%20design.png)
 
 ## Activity Summary
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)
