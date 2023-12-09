@@ -113,4 +113,4 @@ Explore UrbanNestHub live at [UrbanNestHub Live](https://urbannesthubs-d6f4b.web
 
 ## Socials
 - 📧 [Email](mailto:njahanpritom65@gmail.com)
-- 💼 [Facebook](https://www.facebook.com/profile.php?id=100078328218649)
+- 💼 [Linkdin](https://www.linkedin.com/in/nilima-jahan-pritom-0967a929aJ)
