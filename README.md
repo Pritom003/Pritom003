@@ -1,6 +1,6 @@
 
 
-[![Your Image Alt Text](./resize-17020651731634132017resize1702064975401887746banner2.png)](https://git.io/streak-stats)
+[![Your Image Alt Text](./newbanner.jpg)](https://git.io/streak-stats)
 
 ## Activity Summary
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)
@@ -16,6 +16,96 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 
 ## Most Contributed Repositories 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/Pritom003/repos?time_range=one_year&theme=bright_lights)](https://api.githubtrends.io/user/svg/Pritom003/repos?time_range=one_year&theme=bright_lights)
+# My Recent Projects
+## Project-1:
+
+## AssignmentAllies: Your Study Buddy! 📚
+
+### About
+
+- Connect with friends, share assignments, and learn together.
+- Easily create and share assignments for joint efforts.
+- Receive helpful feedback to improve your academic performance.
+- MongoDB and Firebase ensure your data is secure.
+- React.js and Tailwind CSS for an easy and intuitive experience.
+
+### Technologies
+
+- **Frontend:** React.js
+  
+- **Backend:** Node.js with Express
+  
+- **Database:** MongoDB
+  
+- **Authentication:** Firebase
+  
+- **Styling:** Tailwind CSS
+
+### Get Started
+
+To get started with AssignmentAllies, visit [assignment-allies.web.app](https://assignment-allies.web.app). 
+##  Project-2:
+## BrandBoulevard Webpage: Your Gateway to Stylish Brands! 🛍️
+
+### About
+
+-  Discover the latest from Gucci, Levi's, Adidas, and more, all in one place.
+-  Utilizing React Router for an intuitive browsing experience.
+-Ensuring secure authentication, real-time updates, and efficient cloud hosting.
+- Crafted with Tailwind CSS for efficient and customizable styling.
+
+### Technologies Used
+
+- **React Router**
+  
+- **Firebase**
+  
+- **Vercel**
+  
+- **Tailwind CSS**
+
+### Explore BrandBoulevard Live
+
+Visit [BrandBoulevard Live](#) 
+## Project-3 :
+## UrbanNestHub: Your Real Estate Connection 🏠
+
+### User Roles
+
+**Admin:**
+- Manages users and controls product listings.
+
+**Agent:**
+- Lists and manages properties for sale.
+
+**Client:**
+- Explores properties, contacts agents, and makes secure payments.
+
+### Property Listing Workflow
+
+- Agents create product listings.
+- Admin approves or cancels listings.
+- Cancellation results in the removal of disqualified properties.
+
+### Technologies Used
+
+- **Frontend:** 
+  - ReactJS
+  - Tailwind CSS
+  - Material-UI
+
+- **Backend:** 
+  - NodeJS
+  - MongoDB
+
+- **Payment:**
+  - Stripe
+
+- **Infrastructure:**
+  - Firebase (Authentication, real-time database, and hosting)
+### Live Demo
+
+Explore UrbanNestHub live at [UrbanNestHub Live](https://urbannesthubs-d6f4b.web.app/). 🌟
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,mongodb,nodejs,tailwind,react,vscode)](https://skillicons.dev)
