@@ -1,6 +1,6 @@
 
 
-[![Your Image Alt Text](./newbanner.jpg)](https://git.io/streak-stats)
+[![Your Image Alt Text](./NiliMa%20Jahan%20Pritom.png)](https://git.io/streak-stats)
 
 ## Activity Summary
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)
