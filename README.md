@@ -1,7 +1,7 @@
 
-<div style="text-align: center;">
-[![Your Image Alt Text](./NiliMa%20Jahan%20Pritom.png)](https://git.io/streak-stats)
-</div>
+
+[![Your Image Alt Text](./Untitled%20design.png)](https://git.io/streak-stats)
+
 ## Activity Summary
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom003)
 
