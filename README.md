@@ -109,7 +109,7 @@ Visit [BrandBoulevard Live](https://brand-shop-6c3e0.web.app/)
 Explore UrbanNestHub live at [UrbanNestHub Live](https://urbannesthubs-d6f4b.web.app/). 🌟
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,mongodb,nodejs,tailwind,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,mongodb,nodejs,tailwind,react,nextjs,graphql,wordpress,vscode)](https://skillicons.dev)
 
 ## Socials
 - 📧 [Email](mailto:njahanpritom65@gmail.com)
