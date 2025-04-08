@@ -20,31 +20,34 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 # My Recent Projects
 ## Project-1:
 
-## AssignmentAllies: Your Study Buddy! 📚
+##Chapters & Co. - Frontend
 
 ### About
 
-- Connect with friends, share assignments, and learn together.
-- Easily create and share assignments for joint efforts.
-- Receive helpful feedback to improve your academic performance.
-- MongoDB and Firebase ensure your data is secure.
-- React.js and Tailwind CSS for an easy and intuitive experience.
+-MERN Stack: Integrated with a MongoDB, Express.js, React, and Node.js backend.
+-Modern UI/UX: Designed using Ant Design with Tailwind CSS for additional styling.
+-Authentication: User login and registration implemented.
+-Book Listings: Fetches book data from the backend.
+-Admin Dashboard: Allows sellers to post books to the database.
+-Cart & Payment System: Users can add books to the cart and proceed with checkout.
+-Fully Responsive: Optimized for all screen sizes.
+-Dark Overlay Hero Section: Beautiful introduction to the bookshop.
 
 ### Technologies
 
-- **Frontend:** React.js
+- **Frontend:**React, TypeScript, Ant Design, Tailwind CSS
   
-- **Backend:** Node.js with Express
-  
+- **Backend:**Node.js, Express.js, MongoDB (Handled in a separate repository)
 - **Database:** MongoDB
+- 
+- **State Management:** Redux Toolkit
   
 - **Authentication:** Firebase
-  
-- **Styling:** Tailwind CSS
+
 
 ### Get Started
 
-To get started with AssignmentAllies, visit [assignment-allies.web.app](https://assignment-allies.web.app). 
+To get started with C&C, visit [Chapters & Co]( https://book-shop-frontend-lemon.vercel.app/). 
 ##  Project-2:
 ## BrandBoulevard Webpage: Your Gateway to Stylish Brands! 🛍️
 
@@ -67,7 +70,10 @@ To get started with AssignmentAllies, visit [assignment-allies.web.app](https://
 
 ### Explore BrandBoulevard Live
 
-Visit [BrandBoulevard Live](https://brand-shop-6c3e0.web.app/) 
+### Visit [ Live](https://brand-shop-6c3e0.web.app/) 
+
+
+
 ## Project-3 :
 ## UrbanNestHub: Your Real Estate Connection 🏠
 
